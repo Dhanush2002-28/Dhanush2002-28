@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi, I'm Dhanush C! 👋
+I'm a web development enthusiast with a passion for building applications that bring ideas to life through code. A bit about me:
 
-<!--
-**Dhanush2002-28/Dhanush2002-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently focused on mastering full-stack development.
+🌿 I have a keen interest in both frontend and backend development.
+🚀 I love exploring new technologies and frameworks to sharpen my skills.
+💡 I'm always excited to collaborate and take on new projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Let's Connect
+- 🌐 This is my portfolio
+- 📧 Feel free to reach out to me via email at [dhanushchandru28@gmail.com](mailto:dhanushchandru28@gmail.com).
+- 🔗 You can also connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhanushc28)
+- 📞 If you prefer a phone call, you can reach me at +91 9901662554.
