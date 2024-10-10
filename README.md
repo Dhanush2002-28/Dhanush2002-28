@@ -1,11 +1,10 @@
 # Hi, I'm Dhanush C! 👋
 I'm a web development enthusiast with a passion for building applications that bring ideas to life through code. A bit about me:
 
-🌱 I'm currently focused on mastering full-stack development.
-🌿 I have a keen interest in both frontend and backend development.
-🚀 I love exploring new technologies and frameworks to sharpen my skills.
+🌱 I'm currently focused on mastering full-stack development.  
+🌿 I have a keen interest in both frontend and backend development.  
+🚀 I love exploring new technologies and frameworks to sharpen my skills.  
 💡 I'm always excited to collaborate and take on new projects.
-
 
 
 ## Let's Connect
