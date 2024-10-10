@@ -1,4 +1,4 @@
-#Hi, I'm Dhanush C! 👋
+# Hi, I'm Dhanush C! 👋
 I'm a web development enthusiast with a passion for building applications that bring ideas to life through code. A bit about me:
 
 🌱 I'm currently focused on mastering full-stack development.
