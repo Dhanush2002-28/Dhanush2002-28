@@ -7,6 +7,8 @@ I'm a web development enthusiast with a passion for building applications that b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dhanush2002-28&color=blue&style=flat-square)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhanush2002-28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
